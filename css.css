@@ -1,0 +1,30 @@
+table, td, th {  
+    border: 2px solid black;
+    border-collapse: collapse;
+  }
+  
+  table {
+    width: 50%;
+  }
+
+  th {
+      height: 70px;
+      text-align: center;
+  }
+
+  td {
+      padding: 10px;
+  }
+
+  .table_style {
+      color: red;
+  }
+
+  div.table_style {
+      color: green;
+      background-color: pink;
+  }
+  
+  th, td {
+    padding: 10px;
+  }
