@@ -1,0 +1,32 @@
+table,th,td {
+    border: 2px solid red;
+    border-collapse: collapse;
+}
+
+table {
+    width: 100%;
+}
+
+th {
+    height: 70px;
+}
+
+.content1 {
+    text-align: center;
+    height: 450px;
+    width: 190px;
+}
+
+.content2 {
+    text-align: center;
+    height: 450px;
+}
+
+.content2 h3,p {
+    margin: 15px;
+}
+
+.footer {
+    text-align: center;
+    height: 70px;
+}
